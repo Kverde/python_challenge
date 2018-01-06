@@ -1,3 +1,3 @@
 # Python challenge
 
-From [http://www.pythonchallenge.com](PythonChallenge.com)
+From [PythonChallenge.com](http://www.pythonchallenge.com)
